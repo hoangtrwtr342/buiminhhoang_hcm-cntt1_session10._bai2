@@ -1,3 +1,17 @@
+##Phần 1. Báo cáo phân tích (I/O)
+- Input (Văn bản thô): Các đoạn mã định dạng Markdown thuần túy chứa từ khóa code, ký hiệu bảng (|), và danh sách checkbox (- [ ]).
+
+- Output (Giao diện render):
+
+    - Inline Code & Code Block: Phân biệt rõ văn bản hướng dẫn thông thường với câu lệnh/mã nguồn được bôi màu cú pháp (Syntax Highlighting) trực quan.
+
+    - Table: Trình bày dữ liệu dạng bảng có hàng, cột rõ ràng giúp dễ so sánh thông số thiết bị.
+
+    - Task List: Hiển thị danh sách các ô vuông kiểm tra (checkbox) giúp quản lý tiến độ thi công.
+
+
+
+
 ##Phần 2. Source Code Markdown hoàn chỉnh
 Markdown
 # Hướng dẫn cài đặt cảm biến độ ẩm cho trang trại Lan
